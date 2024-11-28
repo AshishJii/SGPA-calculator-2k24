@@ -87,3 +87,19 @@ button:hover {
     margin-top: 10px;
     text-align: center;
 }
+footer {
+    margin-top: 20px;
+    text-align: center;
+    font-size: 14px;
+    color: #555;
+}
+
+footer a {
+    color: #0056b3;
+    font-weight: bold;
+}
+
+footer a:hover {
+    text-decoration: underline;
+    color: #003d82;
+}
